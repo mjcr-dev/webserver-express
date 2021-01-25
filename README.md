@@ -1,4 +1,4 @@
-##Código fuente de un servidor express/node, hbs, heroku básico.
+## Código fuente de un servidor básico express/node, hbs, heroku.
 
 ```
 npm install
